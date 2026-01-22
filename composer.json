@@ -1,0 +1,13 @@
+{
+  "name": "your-org/php-core-agent-safe",
+  "description": "PHP Core Agent-Safe Template (No Frameworks)",
+  "type": "project",
+  "require": {
+    "php": ">=8.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "classes/"
+    }
+  }
+}
